@@ -28,3 +28,5 @@ window.addEventListener('appcartchange', event => {
   badge.textContent = qty;
   badge.hidden = qty == 0;
 });
+
+/** */
